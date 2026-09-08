@@ -21,13 +21,20 @@ bulacaksınız.
 | [FGG Holding](projeler/fgg-holding.md) | Kurumsal site, 4 dil + RTL | PHP | fggholding.com |
 | [Marmaris Health Center](projeler/marmaris-health.md) | Sağlık turizmi | PHP | marmarishealthcenter.com.tr |
 
-## Diğer
+## Teslime hazır
 
-| Proje | Ne | Yığın |
-|---|---|---|
-| [Limon Optik](projeler/limon-optik.md) | Optik e-ticaret, sepet + ödeme | Laravel 13 · iyzico |
-| [SiteWatch](projeler/sitewatch.md) | Site/SSL izleme paneli | Laravel 11 · Livewire |
-| [Gece Oto Kurtarma](projeler/gece-oto-kurtarma.md) | Tek kişilik indie oyun | Unity · C# |
+| Proje | Ne | Yığın | Durum |
+|---|---|---|---|
+| [Limon Optik](projeler/limon-optik.md) | Optik e-ticaret, sepet + ödeme | Laravel 13 · iyzico | tamamlandı, yayın bekliyor |
+
+## Kendi projelerim
+
+Müşteri işi değil — kendi ihtiyacım için yazdıklarım.
+
+| Proje | Ne | Yığın | Durum |
+|---|---|---|---|
+| [SiteWatch](projeler/sitewatch.md) | Site ve SSL izleme paneli | Laravel 11 · Livewire | çalışıyor, henüz yayında değil |
+| [Gece Oto Kurtarma](projeler/gece-oto-kurtarma.md) | Tek kişilik indie oyun | Unity · C# | geliştirme sürüyor |
 
 ---
 

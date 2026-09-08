@@ -2,6 +2,9 @@
 
 **Site ve sertifika izleme paneli** · Laravel 11 · Livewire · Tailwind
 
+> Kendi yazdığım iç araç — müşteri projesi değil. Çalışır durumda, gerçek
+> sitelerle test edildi, **henüz bir sunucuda yayında değil.**
+
 Yönettiğim müşteri sitelerinin ayakta olup olmadığını, SSL sertifikalarının
 ne zaman biteceğini ve alan adı sürelerini izleyen iç araç.
 
