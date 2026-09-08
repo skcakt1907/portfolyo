@@ -10,7 +10,7 @@ ne zaman biteceğini ve alan adı sürelerini izleyen iç araç.
 
 ## Neden yazdım
 
-İki olay üst üste geldi: bir müşteri sitesinin detay sayfaları aylarca hata
+İki olay üst üste geldi: bir müşteri sitesinin detay sayfaları haftalarca hata
 verdi ve kimse fark etmedi; başka bir sitede SSL sertifikası bitti ve durumu
 müşteri bize bildirdi. İkisi de bizim önce görmemiz gereken şeylerdi.
 

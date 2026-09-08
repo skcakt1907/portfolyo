@@ -51,4 +51,4 @@ Sonuç: 193 adresin tamamı ya çalışıyor ya doğru yere yönleniyor.
 ## Öğrendiğim
 
 Bir sitenin "ayakta" olması içinin çalıştığı anlamına gelmiyor. Ana sayfayı
-kontrol eden bir izleme aracı bu arızayı aylarca kaçırırdı — nitekim kaçırdı.
+kontrol eden bir izleme aracı bu arızayı kaçırırdı — nitekim kaçırdı.

@@ -54,7 +54,7 @@ hata verir. Liste sayfaları slug çözmediği için etkilenmez — yani site
 dışarıdan ayakta görünür.
 
 Canlıda tam olarak bu oldu: bir migration uygulanmamıştı, sitenin dörtte üçü
-aylarca hata verdi ve fark edilmedi.
+haftalarca hata verdi ve fark edilmedi.
 
 İkinci ısırığı: kolon listesi **birincil dile** göre hesaplanır. Birincil dil
 Almanca'ysa `slug_nl` gerekir; Hollandaca'ysa `slug_de`. Yerel kurulumdaki
@@ -64,5 +64,5 @@ Bunu ilk denemede atladım ve yanlış kolonları ekledim.
 ## Ders
 
 Şemaya bağımlı kod yazarken şemanın orada olduğunu varsayma. `Schema::hasColumn`
-ile korumak ya da kurulum kontrol listesine yazmak, aylarca süren sessiz
+ile korumak ya da kurulum kontrol listesine yazmak, haftalarca süren sessiz
 arızadan iyidir.
