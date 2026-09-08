@@ -33,6 +33,12 @@ Referans veya canlı adres gerekiyorsa görüşmede paylaşabilirim.
 | [Oto galeri ve yedek parça](projeler/oto-galeri.md) | Galeri + parça satışı + kiralama, tek panelde | Laravel 13 |
 | [Optik e-ticaret](projeler/optik-eticaret.md) | Sepet, ödeme, üyelik, admin paneli | Laravel 13 · iyzico |
 
+## Ürün geliştirme
+
+| Proje | Ne | Yığın |
+|---|---|---|
+| [Sektörel tema serisi](projeler/tema-serisi.md) | 24 sektör için 52 satılabilir tema, ana temadan türetilen üretim akışı | PHP |
+
 ## Kendi projem
 
 Müşteri işi değil — kendi ihtiyacım için yazdım.
