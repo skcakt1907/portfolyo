@@ -2,30 +2,32 @@
 
 Laravel ile müşteri projeleri geliştiriyorum: kurumsal siteler, e-ticaret,
 çok dilli tanıtım siteleri ve bir CRM/faturalama sistemi. Aşağıdakilerin
-tamamı **canlıda, gerçek müşterilerde çalışıyor.**
+tamamı **canlıda, gerçek kullanıcılarda çalışıyor.**
 
-Bu depo kaynak kodu içermez — müşteri projelerinin kodu onların. Burada ne
-yaptığımı, hangi sorunları nasıl çözdüğümü ve seçilmiş birkaç teknik örneği
-bulacaksınız.
+Bu depo kaynak kodu içermez ve müşteri adı vermez — projelerin kodu ve
+markası onların. Burada ne yaptığımı, hangi sorunları nasıl çözdüğümü ve
+seçilmiş birkaç teknik örneği bulacaksınız.
+
+Referans veya canlı adres gerekiyorsa görüşmede paylaşabilirim.
 
 ---
 
 ## Canlı projeler
 
-| Proje | Ne | Yığın | Adres |
-|---|---|---|---|
-| [İş Ortağım](projeler/is-ortagim.md) | CRM + faturalama + bayi yönetimi | Laravel 12 · MariaDB | isortagim.dnkreatif.com |
-| [MC Gordijnen](projeler/mc-gordijnen.md) | Hollanda perde firması, çok dilli | Laravel 13 | mcgordijnen.com |
-| [Marmaris Travel Center](projeler/marmaris-travel.md) | Tur/transfer rezervasyon | Laravel 12 | travelcentermarmaris.com |
-| [AEGEA Reserve](projeler/aegea-reserve.md) | Gurme ürün e-ticareti | Laravel 13 · iyzico | aegeareserve.com |
-| [FGG Holding](projeler/fgg-holding.md) | Kurumsal site, 4 dil + RTL | PHP | fggholding.com |
-| [Marmaris Health Center](projeler/marmaris-health.md) | Sağlık turizmi | PHP | marmarishealthcenter.com.tr |
+| Proje | Ne | Yığın |
+|---|---|---|
+| [CRM + faturalama](projeler/crm-faturalama.md) | Müşteri, fatura, gider, bayi ve görev yönetimi · 200+ tablo | Laravel 12 · MariaDB |
+| [Perde firması](projeler/perde-firmasi.md) | Hollanda pazarına çok dilli katalog sitesi | Laravel 13 |
+| [Tur ve transfer](projeler/tur-rezervasyon.md) | Rezervasyon akışı, fiyat kademeleri, çok dilli | Laravel 12 |
+| [Gurme e-ticaret](projeler/gurme-eticaret.md) | Katalog, sepet, iyzico ödeme, iki dil | Laravel 13 |
+| [Kurumsal site](projeler/kurumsal-cokdilli.md) | 4 dil + Arapça/Farsça için RTL yerleşim | PHP |
+| [Sağlık turizmi](projeler/saglik-turizmi.md) | Tanıtım sitesi ve talep formu | PHP |
 
 ## Teslime hazır
 
 | Proje | Ne | Yığın | Durum |
 |---|---|---|---|
-| [Limon Optik](projeler/limon-optik.md) | Optik e-ticaret, sepet + ödeme | Laravel 13 · iyzico | tamamlandı, yayın bekliyor |
+| [Optik e-ticaret](projeler/optik-eticaret.md) | Optik e-ticaret, sepet + ödeme | Laravel 13 · iyzico | tamamlandı, yayın bekliyor |
 
 ## Kendi projelerim
 
@@ -42,7 +44,7 @@ Müşteri işi değil — kendi ihtiyacım için yazdıklarım.
 
 Gerçek projelerden çıkarılmış, kendi başına anlaşılır örnekler:
 
-- [Dile göre adres çözümleme](ornekler/coklu-dil-slug.md) — `/producten/gordijnen` ve `/produkte/gordijnen` aynı kayda nasıl düşer
+- [Dile göre adres çözümleme](ornekler/coklu-dil-slug.md) — `/producten/jaloezieen` ve `/produkte/jalousien` aynı kayda nasıl düşer
 - [Mükerrer bildirim önleme](ornekler/mukerrer-bildirim.md) — aynı mailin iki kez gitmesini engelleyen "önce yeri kap" deseni
 - [Kapatılan dilin adreslerini kurtarma](ornekler/eski-adres-yonlendirme.md) — 96 adresi elle liste yazmadan yönlendirmek
 - [Eski veriyle yaşamak](ornekler/varchar-tarih.md) — metin olarak saklanmış tarihleri kırmadan sorgulamak

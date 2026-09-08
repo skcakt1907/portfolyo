@@ -1,7 +1,7 @@
-# Marmaris Travel Center
+# Tur/transfer sitesi
 
 **Tur ve transfer rezervasyon sitesi** · Laravel 12 · canlı ·
-travelcentermarmaris.com
+
 
 Çok dilli içerik, fiyat kademeleri ve rezervasyon akışı. Tur listeleri,
 detay sayfaları, transfer talep formu.

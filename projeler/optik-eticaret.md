@@ -1,4 +1,4 @@
-# Limon Optik
+# Optik e-ticaret
 
 **Optik e-ticaret** · Laravel 13 · Bootstrap 5 · iyzico
 

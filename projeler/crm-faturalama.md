@@ -1,4 +1,4 @@
-# İş Ortağım
+# CRM sistemi
 
 **CRM + faturalama + bayi yönetim sistemi** · Laravel 12 · MariaDB · canlı
 

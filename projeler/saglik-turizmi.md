@@ -1,8 +1,8 @@
-# Marmaris Health Center
+# Sağlık turizmi sitesi
 
-**Sağlık turizmi tanıtım sitesi** · PHP · canlı · marmarishealthcenter.com.tr
+**Sağlık turizmi tanıtım sitesi** · PHP · canlı · 
 
-Marmaris Travel Center ile aynı müşteri grubuna ait. Sağlık turizmi
+Tur/transfer sitesi ile aynı müşteri grubuna ait. Sağlık turizmi
 hizmetleri, USHAŞ yetki belgesi bilgisi, iletişim ve talep formu.
 
 Sağlık turizminde yetki belgesi bilgisinin sitede görünür olması yasal

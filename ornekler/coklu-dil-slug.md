@@ -5,9 +5,9 @@
 Çok dilli bir sitede adreste dil kodu istemedik. Yolun kendisi dili söylüyor:
 
 ```
-/producten/gordijnen      Hollandaca
-/produkte/gordijnen       Almanca
-/products/curtains        İngilizce
+/producten/jaloezieen      Hollandaca
+/produkte/jalousien       Almanca
+/products/blinds        İngilizce
 ```
 
 Bu, `/nl/producten` gibi öneklerden daha temiz ve her dil kendi anahtar

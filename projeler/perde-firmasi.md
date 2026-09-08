@@ -1,7 +1,7 @@
-# MC Gordijnen
+# Perde firması
 
 **Hollandalı perde/güneşlik firmasının tanıtım sitesi** · Laravel 13 · canlı
-· mcgordijnen.com
+· 
 
 Ürün kataloğu, proje galerisi, hizmetler, rehber yazıları ve iletişim.
 Başlangıçta dört dilli (Hollandaca, Almanca, İngilizce, Türkçe).
@@ -11,9 +11,9 @@ Başlangıçta dört dilli (Hollandaca, Almanca, İngilizce, Türkçe).
 Adreste dil kodu yok — **yolun kendisi dili söylüyor**:
 
 ```
-    /producten/gordijnen      Hollandaca
-    /produkte/gordijnen       Almanca
-    /products/curtains        İngilizce
+    /producten/jaloezieen      Hollandaca
+    /produkte/jalousien       Almanca
+    /products/blinds        İngilizce
 ```
 
 Bu, `/nl/producten` gibi öneklerden daha temiz görünüyor ve SEO'da her dil

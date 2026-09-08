@@ -1,6 +1,6 @@
-# FGG Holding
+# Kurumsal site
 
-**Kurumsal tanıtım sitesi + CRM** · PHP · canlı · fggholding.com
+**Kurumsal tanıtım sitesi + CRM** · PHP · canlı · 
 
 Dört dil (Türkçe, İngilizce, Arapça, Farsça) ve Arapça/Farsça için **sağdan
 sola (RTL)** yerleşim desteği.
