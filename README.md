@@ -25,11 +25,13 @@ Referans veya canlı adres gerekiyorsa görüşmede paylaşabilirim.
 | [Oto kurtarma / yol yardımı](projeler/oto-kurtarma.md) | 7/24 çekici firması, mobil öncelikli | PHP |
 | [Parke ve zemin kaplama](projeler/parke-zemin.md) | Hizmet tanıtımı ve teklif formu | PHP |
 
-## Teslime hazır
+## Geliştirme sürüyor
 
-| Proje | Ne | Yığın | Durum |
-|---|---|---|---|
-| [Optik e-ticaret](projeler/optik-eticaret.md) | Optik e-ticaret, sepet + ödeme | Laravel 13 · iyzico | tamamlandı, yayın bekliyor |
+| Proje | Ne | Yığın |
+|---|---|---|
+| [Tekne turu rezervasyon](projeler/tekne-rezervasyon.md) | Çok satıcılı rezervasyon, WhatsApp entegrasyonu | Laravel 13 · **Filament** |
+| [Oto galeri ve yedek parça](projeler/oto-galeri.md) | Galeri + parça satışı + kiralama, tek panelde | Laravel 13 |
+| [Optik e-ticaret](projeler/optik-eticaret.md) | Sepet, ödeme, üyelik, admin paneli | Laravel 13 · iyzico |
 
 ## Kendi projem
 
