@@ -22,6 +22,8 @@ Referans veya canlı adres gerekiyorsa görüşmede paylaşabilirim.
 | [Gurme e-ticaret](projeler/gurme-eticaret.md) | Katalog, sepet, iyzico ödeme, iki dil | Laravel 13 |
 | [Kurumsal site](projeler/kurumsal-cokdilli.md) | 4 dil + Arapça/Farsça için RTL yerleşim | PHP |
 | [Sağlık turizmi](projeler/saglik-turizmi.md) | Tanıtım sitesi ve talep formu | PHP |
+| [Oto kurtarma / yol yardımı](projeler/oto-kurtarma.md) | 7/24 çekici firması, mobil öncelikli | PHP |
+| [Parke ve zemin kaplama](projeler/parke-zemin.md) | Hizmet tanıtımı ve teklif formu | PHP |
 
 ## Teslime hazır
 
@@ -29,14 +31,13 @@ Referans veya canlı adres gerekiyorsa görüşmede paylaşabilirim.
 |---|---|---|---|
 | [Optik e-ticaret](projeler/optik-eticaret.md) | Optik e-ticaret, sepet + ödeme | Laravel 13 · iyzico | tamamlandı, yayın bekliyor |
 
-## Kendi projelerim
+## Kendi projem
 
-Müşteri işi değil — kendi ihtiyacım için yazdıklarım.
+Müşteri işi değil — kendi ihtiyacım için yazdım.
 
 | Proje | Ne | Yığın | Durum |
 |---|---|---|---|
 | [SiteWatch](projeler/sitewatch.md) | Site ve SSL izleme paneli | Laravel 11 · Livewire | çalışıyor, henüz yayında değil |
-| [Gece Oto Kurtarma](projeler/gece-oto-kurtarma.md) | Tek kişilik indie oyun | Unity · C# | geliştirme sürüyor |
 
 ---
 
